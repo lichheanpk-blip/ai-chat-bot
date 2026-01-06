@@ -1,0 +1,18 @@
+{
+    "id": "chat_1767622949934",
+    "title": "hi",
+    "updated_at": 1767622953,
+    "messages": [
+        {
+            "text": "hi",
+            "isUser": true,
+            "file": null,
+            "html": "hi"
+        },
+        {
+            "text": "Hello! It's great to meet you. I'm Gemini, your AI thought partner.\n\nWhether you're looking to brainstorm a new project, need help solving a problem, or just want to chat about something on your mind, I'm here to help.\n\n**What can we work on together today?** * **Creative Writing:** I can help you draft a story, poem, or email.\n* **Learning:** I can explain complex topics or help you practice a new language.\n* **Planning:** I can assist with travel itineraries, meal plans, or schedules.\n* **Visuals:** I can generate images or even short videos based on your ideas.\n\nWould you like to start by telling me a bit about what's on your mind?",
+            "isUser": false,
+            "html": "<p>Hello! It&#39;s great to meet you. I&#39;m Gemini, your AI thought partner.<\/p>\n<p>Whether you&#39;re looking to brainstorm a new project, need help solving a problem, or just want to chat about something on your mind, I&#39;m here to help.<\/p>\n<p><strong>What can we work on together today?<\/strong> * <strong>Creative Writing:<\/strong> I can help you draft a story, poem, or email.<\/p>\n<ul>\n<li><strong>Learning:<\/strong> I can explain complex topics or help you practice a new language.<\/li>\n<li><strong>Planning:<\/strong> I can assist with travel itineraries, meal plans, or schedules.<\/li>\n<li><strong>Visuals:<\/strong> I can generate images or even short videos based on your ideas.<\/li>\n<\/ul>\n<p>Would you like to start by telling me a bit about what&#39;s on your mind?<\/p>\n"
+        }
+    ]
+}

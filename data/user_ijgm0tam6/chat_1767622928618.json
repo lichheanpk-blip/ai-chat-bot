@@ -1,0 +1,18 @@
+{
+    "id": "chat_1767622928618",
+    "title": "hi",
+    "updated_at": 1767622931,
+    "messages": [
+        {
+            "text": "hi",
+            "isUser": true,
+            "file": null,
+            "html": "hi"
+        },
+        {
+            "text": "Hello! It's great to meet you. How can I help you out today?\n\nWhether you're looking to brainstorm an idea, get some help with a project, or just have a curious question on your mind, I'm here to dive in with you.\n\n**What\u2019s on your mind?**",
+            "isUser": false,
+            "html": "<p>Hello! It&#39;s great to meet you. How can I help you out today?<\/p>\n<p>Whether you&#39;re looking to brainstorm an idea, get some help with a project, or just have a curious question on your mind, I&#39;m here to dive in with you.<\/p>\n<p><strong>What\u2019s on your mind?<\/strong><\/p>\n"
+        }
+    ]
+}
