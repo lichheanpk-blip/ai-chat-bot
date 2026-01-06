@@ -100,6 +100,18 @@ Regularly prune the `data/` directory or extend the backend to enforce `MAX_HIST
 - Consider moving configuration to environment variables for production deployments.
 - Expand the Docs link (`Docs/index.html`) if you plan to distribute developer documentation.
 
+## Contact
+
+Have questions or want to share feedback? Reach out via Telegram: [@CHHEAN0](https://t.me/CHHEAN0).
+
+## Support the project
+
+If this gateway is useful in your workflow, feel free to support future maintenance via KHQR. Scan either code below with your preferred wallet.
+
+| KHQR (KHR) | KHQR (USD) |
+| --- | --- |
+| ![KHQR KHR payment code](https://storage.perfectcdn.com/axz9n1/phmp0ofcq4eu4gdh.jpg) | ![KHQR USD payment code](https://storage.perfectcdn.com/axz9n1/g3ccceb3ng7o9431.jpg) |
+
 ## License
 
 No license has been specified. If you plan to share this project, add an appropriate license file.
